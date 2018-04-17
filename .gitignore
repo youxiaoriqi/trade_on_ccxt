@@ -1,0 +1,7 @@
+
+*.pyc
+.idea/misc.xml
+.idea/modules.xml
+.idea/trade_on_ccxt.iml
+.idea/vcs.xml
+.idea/workspace.xml
